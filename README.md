@@ -8,7 +8,7 @@ For more information please visit the website [Orbit Themes](https://orbitthemes
 
 ## Orbit Themes Templates and Themes
 
-- [One Column Portfolio](https://orbitthemes.com/preview/1ColPortfolio/) - A One Column Bootstrap 4 Portfolio Showcase Template.
+- [One Column Portfolio](https://orbitthemes.com/downloads/1-col-portfolio/) - A One Column Bootstrap 4 Portfolio Showcase Template.
 
 ## Social Links
 
